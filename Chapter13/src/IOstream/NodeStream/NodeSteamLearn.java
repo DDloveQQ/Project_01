@@ -1,4 +1,4 @@
-package FileClass;
+package IOstream.NodeStream;
 
 import org.junit.Test;
 
@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 
-public class IoSteamLearn {
+public class NodeSteamLearn {
     //////////////////////////////  读文件  /////////////////////////////////////
     // 读取aaa.txt文件中的字符数据,并输出在控制台上
     //实现方式1

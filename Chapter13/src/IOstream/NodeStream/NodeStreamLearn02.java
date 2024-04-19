@@ -1,4 +1,4 @@
-package FileClass;
+package IOstream.NodeStream;
 
 
 import org.junit.Test;
@@ -8,7 +8,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class IoStreamLearn02 {
+public class NodeStreamLearn02 {
     ///////////////////////////////// 文件输入流 ///////////////////////////////////
     @Test
     public void test() throws IOException {

@@ -1,10 +1,10 @@
-package FileClass;
+package IOstream.NodeStream;
 
 import org.junit.Test;
 
 import java.io.*;
 
-public class IoStreamTask02 {
+public class NodeStreamTask02 {
     // 图片加密
     @Test
     public void test1() {
